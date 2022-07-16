@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Paulo-Ceolin
+- 👀 I’m interested in -> Tennis, Youtube, Ciência, Línguas e Cubo Mágico
+- 🌱 I’m currently learning -> Python
+- 💞️ I’m looking to collaborate on -> Python Projects
+- 📫 How to reach me -> guipauloplays@gmail.com
